@@ -5,7 +5,6 @@ const spinner = document.querySelector('.spinner')
 const button = document.querySelector(".btn");
 const input = document.querySelector(".input");
 const search = document.querySelector(".search");
-const image = document.querySelector(".bg");
 let count = 0;
 
 

@@ -23,11 +23,7 @@ h1{
     overflow-x: hidden;
     z-index: 100;
 }
-/* .scroll-container{
-    width: 100%;
-    
 
-} */
 .box{
     color: white;
     background-color: steelblue;
@@ -55,18 +51,7 @@ h1{
     font-size: 30px;
     text-transform: capitalize;
 }
-   /* display: flex; */
-/* .bg {        justify-content: center;
-    background: url("https://images.unsplash.com/photo-1543722530-d2c3201371e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80") no-repeat center center/cover ;
-    position: absolute;
-    top: -30;
-    left:-30;
-    width: calc(100vw + 60px);
-    height: calc(100vh + 60px);
-    z-index: -1;
-    filter: blur(30px);
-    
-    } */
+
     
     .blur-container{
         display: flex;
