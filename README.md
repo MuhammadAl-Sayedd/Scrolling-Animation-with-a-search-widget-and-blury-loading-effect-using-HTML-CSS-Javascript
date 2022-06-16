@@ -1,4 +1,4 @@
-# Scrolling Animation
+# Scrolling Animation Project
 
 ## Project 5 - Scrolling Animation with a search widget and blury loading effect.
 
