@@ -37,8 +37,8 @@ function load() {
   loader.innerText = `${count}%`;
   body.style.filter = `blur(${scale(count,0,100,30,0)}px)`;
   search.style.filter = `blur(${scale(count,0,100,30,0)}px)`;
-  loader.style.opacity = scale(count,0,100,1,0)
-  spinner.style.opacity = scale(count,0,100,1,0)
+  // loader.style.opacity = scale(count,0,100,1,0)
+  // spinner.style.opacity = scale(count,0,100,1,0)
 }
 
 function scale(number, inMin, inMax, outMin, outMax) {

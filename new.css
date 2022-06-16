@@ -74,6 +74,7 @@ h1{
         align-items: center;
         position: relative;
         top:-30px;
+        display: none;
     }
     .loading-text{
         color: black;
@@ -100,8 +101,9 @@ h1{
         animation-timing-function: linear;
         animation-fill-mode: none;
         animation-play-state: running;
-        animation-direction: reverse
+        animation-direction: reverse;
         /* animation: spin 3s linear 2s infinite reverse; */
+        
     }
     .search, .active{
         align-self:flex-end;
